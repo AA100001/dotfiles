@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adil.achraf.antra @gmail.com
+	name = adil achraf antra
